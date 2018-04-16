@@ -1,0 +1,456 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="21" passed="21">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22171" started-at="2018-04-16T01:24:47Z" finished-at="2018-04-16T01:25:10Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22171" started-at="2018-04-16T01:24:47Z" finished-at="2018-04-16T01:25:10Z">
+      <class name="com.testing.XeroMavenWindows.TestScriptsXero">
+        <test-method status="PASS" signature="BeforeTest()[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="BeforeTest" is-config="true" duration-ms="296" started-at="2018-04-15T18:24:47Z" finished-at="2018-04-15T18:24:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BeforeTest -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="7" started-at="2018-04-15T18:24:48Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:24:48Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+            <param index="2">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="2" started-at="2018-04-15T18:24:48Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:24:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[NavigatetoXero_ID01A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Opera]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="21086" started-at="2018-04-15T18:24:48Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[NavigatetoXero_ID01A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Y]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="1" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IncorrectPassword_ID01B]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Opera]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="1" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[IncorrectEmail_ID01C]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="1" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[NavigateToXero_ID01D]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="2" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[signUpToXDC_ID02A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="1" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[signUpToXDC_ID02B]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="2" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[signUpToXDC_ID02C]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="2" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[signUpToXDC_ID02D]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="1" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[signUpToXDC_ID02E]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="3" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testAllTabsPage_ID03A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="1" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[logoutFuctionality_ID04A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="2" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[uploadProfileImage_ID06A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="1" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[addOrganizationTrial_ID08A]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="2" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[addOrganizationPaid_ID08B]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="1" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[addOrganizationStarterPlan_ID08C]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="1" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[addOrganizationStandardPlan_ID08D]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="1" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[addOrganizationPremiumPlan_ID08E]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="2" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[addOrganizationQuickBooks_ID08F]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="NavigatetoXero_ID01A(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="NavigatetoXero_ID01A" duration-ms="1" started-at="2018-04-15T18:25:09Z" data-provider="getDataFromExcel" finished-at="2018-04-15T18:25:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[checkBillingInfo_ID10]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[FF]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[N]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- NavigatetoXero_ID01A -->
+        <test-method status="PASS" signature="AfterTest()[pri:0, instance:com.testing.XeroMavenWindows.TestScriptsXero@490ab905]" name="AfterTest" is-config="true" duration-ms="487" started-at="2018-04-15T18:25:09Z" finished-at="2018-04-15T18:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AfterTest -->
+      </class> <!-- com.testing.XeroMavenWindows.TestScriptsXero -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
